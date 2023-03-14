@@ -1,2 +1,0 @@
-"this is outside myfolder folder"
-"updated text"
